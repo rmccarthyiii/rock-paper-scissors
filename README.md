@@ -1,2 +1,3 @@
 # rock-paper-scissors
-rps js
+
+A rock paper scissors game made with HTML5, CSS, and JavaScript. 
